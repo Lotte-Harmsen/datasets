@@ -6,10 +6,10 @@ This repository contains some datasets in serialized OpenTripModel format. The d
 
 Currently, the following datasets are provided:
 
-* **Environmental zones in The Netherlands**. This is a set of Locations that define environmental zones in some cities in The Netherlands. This dataset is collected as part of a project sponsored by [Beter Benutten](http://beterbenutten.nl/).
-* **Restricted areas in The Netherlands**. This is a set of locations that define restricted areas in some cities in The Netherlands. These areas are mostly are pedestrian zones where loading and unloading is allowed during limited time windows. This dataset is collected as part of a project sponsored by [Beter Benutten](http://beterbenutten.nl/).
+* **Environmental zones in The Netherlands**. This is a set of Locations that define environmental zones in some cities in The Netherlands. This dataset was collected as part of a project sponsored by [Beter Benutten](http://beterbenutten.nl/).
+* **Restricted areas in The Netherlands**. This is a set of locations that define restricted areas in some cities in The Netherlands. These areas are mostly are pedestrian zones where loading and unloading is allowed during limited time windows. This dataset was collected as part of a project sponsored by [Beter Benutten](http://beterbenutten.nl/).
 
-Here's an example of the restricted areas in [Groningen](https://en.wikipedia.org/wiki/Groningen), visualized in the [Simacan](https://www.simacan.com/) [Control Tower](https://www.simacan.com/en/products/control-tower/). More example images can be found in the [images](/images) directory.
+Here's an example of the restricted areas in [Groningen](https://en.wikipedia.org/wiki/Groningen), visualized in [Simacan](https://www.simacan.com/) [Control Tower](https://www.simacan.com/en/products/control-tower/). More example images can be found in the [images](/images) directory.
 ![Restricted areas Groningen](images/restricted-areas-groningen.png)
 
 ## Licence
